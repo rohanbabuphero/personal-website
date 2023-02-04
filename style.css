@@ -35,6 +35,10 @@ p{
     padding-left: 167px;
     margin-bottom: 20px;
 }
+h3.width-min {
+    width: 32%;
+    margin: 0 auto;
+}
 p.text {
     padding-left: 150px;
 }
